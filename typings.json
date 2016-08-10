@@ -1,0 +1,7 @@
+{
+  "name": "paper",
+  "ambient": true,
+  "files": [
+    "paper.d.ts",
+  ],
+}
