@@ -2,6 +2,6 @@
   "name": "paper",
   "ambient": true,
   "files": [
-    "paper.d.ts",
+    "paper.d.ts"
   ]
 }
