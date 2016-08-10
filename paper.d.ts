@@ -1,7 +1,7 @@
 // Type definitions for Paper.js v0.9.22
 // Project: http://paperjs.org/
 
-declare module paper {
+declare module 'paper' {
 
     /**
      * The version of Paper.js, as a string.
